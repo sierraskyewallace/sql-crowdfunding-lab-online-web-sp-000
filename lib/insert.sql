@@ -9,3 +9,24 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Worst Project", "Hard", 100, "1/1", "2/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Best Project", "Fun", 20000, "1/1", "2/3");
 
+INSERT INTO users (name, age) VALUES ("Andy", 20);
+INSERT INTO users (name, age) VALUES ("Skye", 23);
+INSERT INTO users (name, age) VALUES ("Michael", 34);
+INSERT INTO users (name, age) VALUES ("Tracy", 60);
+INSERT INTO users (name, age) VALUES ("Matt", 19);
+INSERT INTO users (name, age) VALUES ("Chase", 37);
+INSERT INTO users (name, age) VALUES ("Mason", 40);
+INSERT INTO users (name, age) VALUES ("Tim", 24);
+INSERT INTO users (name, age) VALUES ("Dan", 28);
+INSERT INTO users (name, age) VALUES ("Alex", 22);
+INSERT INTO users (name, age) VALUES ("Dhara", 22);
+INSERT INTO users (name, age) VALUES ("Pam", 22);
+INSERT INTO users (name, age) VALUES ("Jim", 43);
+INSERT INTO users (name, age) VALUES ("Layne", 26);
+INSERT INTO users (name, age) VALUES ("Jerry", 44);
+INSERT INTO users (name, age) VALUES ("Mike", 62);
+INSERT INTO users (name, age) VALUES ("Dave", 69);
+INSERT INTO users (name, age) VALUES ("Kurt", 27);
+INSERT INTO users (name, age) VALUES ("Alan", 80);
+INSERT INTO users (name, age) VALUES ("David", 21);
+
