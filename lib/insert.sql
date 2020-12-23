@@ -1,0 +1,1 @@
+INSERT INTO projects (id, title, category, funding_goal, )
