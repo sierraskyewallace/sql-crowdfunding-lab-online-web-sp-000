@@ -3,11 +3,11 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hard Project", "Hard", 1000, "1/1", "2/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Project", "Hard", 100, "1/1", "2/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("A Project", "Fun", 600, "1/1", "2/3");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Simple Project", "Tolerable", 200, "1/1", "2/3");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Simple Project", "Music", 200, "1/1", "2/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Difficult Project", "Hard", 14400, "1/1", "2/3");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Fun Project", "Fun", 1023400, "1/1", "2/3");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Worst Project", "Hard", 100, "1/1", "2/3");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Best Project", "Fun", 20000, "1/1", "2/3");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Fun Project", "Music", 1023400, "1/1", "2/3");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Worst Project", "Books", 100, "1/1", "2/3");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Best Project", "Books", 20000, "1/1", "2/3");
 
 INSERT INTO users (name, age) VALUES ("Andy", 20);
 INSERT INTO users (name, age) VALUES ("Skye", 23);
