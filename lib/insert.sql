@@ -1,5 +1,5 @@
-	INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("First Project", "Easy", 500, "6/1", "6/3");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Easy Project", "Easy", 10000, "6/1", "6/3");
+	INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("First Project", "Easy", 500, "1/1", "2/3");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Easy Project", "Easy", 10000, "1/1", "2/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hard Project", "Hard", 1000, "6/1", "6/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("The Project", "Hard", 100, "6/1", "6/3");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("A Project", "Fun", 600, "6/1", "6/3");
